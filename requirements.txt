@@ -1,0 +1,15 @@
+pandas
+numpy
+kagglehub
+scikit-learn
+nltk
+iterative-stratification
+wordcloud
+transformers
+datasets
+evaluate
+wandb
+matplotlib
+seaborn
+streamlit
+ipykernel

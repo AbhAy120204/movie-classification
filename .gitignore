@@ -1,0 +1,10 @@
+.env
+myenv/
+__pycache__/
+*.pyc
+.superpowers/
+distilbert-genre/
+roberta-genre/
+best-model-final/
+docs/
+wandb/
