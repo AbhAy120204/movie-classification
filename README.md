@@ -2,10 +2,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://python.org)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-yellow?logo=huggingface)](https://huggingface.co/Abhay-learns/distilbert-genre)
-[![Gradio](https://img.shields.io/badge/Demo-Gradio-orange?logo=gradio)](https://huggingface.co/spaces/Abhay-learns/movie-genre-classifier-demo)
+[![Streamlit](https://img.shields.io/badge/Demo-Streamlit-red?logo=streamlit)](https://movie-classification-zyavjxgfgebn3ymgnw7dvu.streamlit.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**[Live Demo →](https://huggingface.co/spaces/Abhay-learns/movie-genre-classifier-demo)**
+**[Live Demo →](https://movie-classification-zyavjxgfgebn3ymgnw7dvu.streamlit.app)**
 
 Predicting movie genres from plot descriptions using NLP. This project compares a classical TF-IDF + Logistic Regression baseline against a fine-tuned DistilBERT transformer model on 182k IMDB movies across 20 genres.
 
