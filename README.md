@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/Demo-Streamlit-red?logo=streamlit)](https://movie-classification-zyavjxgfgebn3ymgnw7dvu.streamlit.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**[Live Demo →](https://movie-classification-zyavjxgfgebn3ymgnw7dvu.streamlit.app)**
+## **[Live Demo →](https://movie-classification-zyavjxgfgebn3ymgnw7dvu.streamlit.app)**
 
 Predicting movie genres from plot descriptions using NLP. This project compares a classical TF-IDF + Logistic Regression baseline against a fine-tuned DistilBERT transformer model on 182k IMDB movies across 20 genres.
 
